@@ -22,15 +22,15 @@ Work Experience
 * **Graduate Research Assistant** Jan 2021 - Present
   * Department of Comuter Science 
   * University of Nevada, Reno.
-   * **Working on a collaborative project with Neuromechanics Lab (UNR) for Sideline Concussion Assessment with Virtual Reality using Machine Learning models
-   * **Working on a collaborative project to Detect mass from mammogram images.
+    * Working on a collaborative project with Neuromechanics Lab (UNR) for Sideline Concussion Assessment with Virtual Reality using Machine Learning models
+    * Working on a collaborative project to Detect mass from mammogram images.
 
 * **Graduate Teaching Assistant** Jan 2021 - Present
-   * Department of Comuter Science 
-   * University of Nevada, Reno.
-    * **Course: CS 302- Data Structure
-    * **Course: CS791 Topics- Mass Detection in Mammograms
-    * **Course: CPE 201- Digital Design
+  * Department of Comuter Science 
+  * University of Nevada, Reno.
+    * Course: CS 302- Data Structure
+    * Course: CS791 Topics- Mass Detection in Mammograms
+    * Course: CPE 201- Digital Design
     
 
 * **Artificial Intelligence/Machine Learning Engineer Intern** Aug 2020 - Oct 2020
