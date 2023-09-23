@@ -16,30 +16,90 @@ Education
 * M.S. in Data Science, Deakin University, 2020
 * Bsc. in Computer Science & Engineering, BRAC University, 2017
 
+Education
+======
+* PhD. in Computer Science & Engineering, University of Nevada Reno, 2024 (expected)
+* M.S. in Computer Science & Engineering, University of Nevada Reno, 2022
+* M.S. in Data Science, Deakin University, 2020
+* Bsc. in Computer Science & Engineering, BRAC University, 2017
+
 Work Experience
 ======
 
-* **Graduate Research Assistant** Jan 2021 - Present
-  * Department of Comuter Science 
-  * University of Nevada, Reno.
-    * Working on a collaborative project with Neuromechanics Lab (UNR) for Sideline Concussion Assessment with Virtual Reality using Machine Learning models
-    * Working on a collaborative project to Detect mass from mammogram images.
+### Graduate Research Assistant - Prof. Alireza Tavakkoli
+*University of Nevada, Reno* (Reno, NV)  
+*January 2021 - Present*
 
-* **Graduate Teaching Assistant** Jan 2021 - Present
-  * Department of Comuter Science 
-  * University of Nevada, Reno.
-    * Course: CS 302- Data Structure
-    * Course: CS791 Topics- Mass Detection in Mammograms
-    * Course: CPE 201- Digital Design
-    
+- **Space-associated Neuroocular Syndrome (SANS)**
+  - Developed a Super-resolution Transformer-based model for identifying SANS degenerative disease in astronauts. Funded by NASA Grant No. 80NSSC20K1831.
+  - **Tools:** PyTorch, Pandas, NumPy, Monai, OpenCV.
+  - **Codes:** [Swin-FSR](https://github.com/FarihaHossain/SwinFSR)
 
-* **Artificial Intelligence/Machine Learning Engineer Intern** Aug 2020 - Oct 2020
-  * Ford Motor Company
-  * Melbourne, Australia.
+- **Adversarial Attack Detection and Mitigation**
+  - Developed two novel generative adversarial networks for adversarial attack detection in ECG. Also, developed a Game theoretical strategy, implemented with a convolutional neural network to mitigate adversarial attack.
+  - **Tools:** Tensorflow-keras, NumPy, Keras, OpenCV.
+  - **Codes:** [ECG-Adv-GAN](https://github.com/FarihaHossain/ECG-Adv-GAN), [ECG-ATK-GAN](https://github.com/FarihaHossain/ECG-ATK-GAN)
 
-* **Software Engineer Intern** Oct 2017 - Dec 2017
-  * Kyoto Engineering and Automation Ltd.
-  * Dhaka, Bangladesh.
+- **Concussion Detection using Virtual Reality**
+  - Collaborating with Neuromechanics Lab to develop a system using Virtual Reality that can detect concussions.
+  - **Tools:** Tensorflow-keras, Numpy, Pandas.
+
+- **2D and 3D Medical Image Segmentation**
+  - Developed a novel Swin-Transformer-based architecture for benign and malignant breast micro-mass segmentation from MRI and Ultrasound images, achieving 3-4% improvement over the current state-of-the-art. Also, developed an attention-based Swin-Transformer with feature-similarity loss for 3D OCT fluid segmentation.
+
+### Artificial Intelligence/Machine Learning Engineer Intern
+*Ford Motor Company* (Melbourne, Australia)  
+*Aug 2020 - Oct 2022*
+
+- **Hierarchical Graphical Network**
+  - Worked as a Team Lead (interns) to create a hierarchical Graphical Network of organization members using Graphical Neural Network.
+  - **Tools:** Tensorflow, Pandas, Matplotlib, NumPy.
+
+- **Visualization of analysis**
+  - Implemented "Streamlit" for the dynamic visualization of the Machine Learning Model and the Graphical Network.
+  - **Tools:** Tensorflow, Pandas, Matplotlib, NumPy.
+
+- **Research in "Oracle Digital Assistance"**
+  - Created a report on "Oracle Digital Assistance" to create an Economic and Organizational suitability report emphasizing the Policy Maker and Technical perspective.
+
+### Software Engineer Intern
+*Kyoto Engineering and Automation Ltd.*  
+*Oct 2017 - Dec 2017*
+
+- **Organizational Software**
+  - Built and worked on 2 Software (Private).
+  - **Tools:** Platform: .NET; Language: C#.
+
+- **Microsoft SQL Server**
+  - Designed and implemented in the Company's Software (Private).
+  - **Tools:** MySQL.
+
+
+
+Honors and Awards
+======
+
+- Awarded with *Doctoral Research in Innovation, Vision and Excellence (Nevada Drive Scholar)* for 2023-2024.
+- CSE graduate student out of 4,000+ students to receive *UNR Graduate Dean's Merit Scholarship* for 2021-2022.
+- Received *Outstanding International Graduate Student Award* for Spring'22 and Fall'22 by University of Nevada, Reno.
+- Received *Institutional Methodology Grant* in January 2021 and 2022.
+
+Academic Services
+======
+
+- **Graduate Mentor**
+  - *US Army Educational Outreach Program*, Summer'21, Summer'23.
+
+- **Teaching Assistant**
+  - *CS791: Mass Detection in Mammograms, Spring'22*
+  - *Course: CS 302- Data Structure, Fall'22*
+  - *Course: CPE 201- Digital Design, Spring'21'23, Fall'21*
+
+- **Instructor: GRAD -778**
+  - Documentation and Communication (Overleaf)
+  - Source Version Control and Visualization
+  - Classification with Deep Architectures
+  - Segmentation with Deep Architectures
 
 <!---
 
