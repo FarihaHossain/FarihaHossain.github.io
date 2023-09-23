@@ -10,12 +10,11 @@ redirect_from:
 
 # About Me
 
-*  I am a 3rd year Ph.D. student at Human-Perception Lab, University of Nevada,Reno under the supervision of Dr. Alireza Tavakkoli. My research focuses on computer vision and its application in the medical field, with specific emphasis on Multimodal imagaing, generative models, and Knowledge Distillation.
+I am a 3rd year Ph.D. student at Human-Perception Lab, University of Nevada,Reno under the supervision of Dr. Alireza Tavakkoli. My research focuses on computer vision and its application in the medical field, with specific emphasis on Multimodal imagaing, generative models, and Knowledge Distillation.
 
 Prior to pursuing my doctoral studies, I did my Masters in Data Science in Deakin University, Melbourne, Australia. My research was focused on Generative Adversarial Network for Time series Data(ECG) under the supervision of Dr. Ma Xingjun, Dr. Lei Pan, Dr. Sutharshan Rajasegarar and Dr. Chandan Karmakar.
 
 
- I'm a PhD 3rd year student in Computer Science & Engineering and have worked as a GRA at Human-Machine Perception Lab and GTA at [University of Nevada, Reno](https://www.unr.edu/). [[Resume](https://farihahossain.github.io/files/Resume_Fariha_Hossain.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=pey8DYgAAAAJ&hl=en)]
 
 
 # Research
