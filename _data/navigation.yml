@@ -18,11 +18,11 @@ main:
   - title: "Bio"
     url: /bio/
     
-  - title: "CV"
+  - title: "Resume"
     url: /files/Resume_Fariha_Hossain.pdf
 
   #- title: "Guide"
   #  url: /markdown/
 
-  - title: "Contact"
-    url: /contact/
+  #- title: "Contact"
+  #  url: /contact/
