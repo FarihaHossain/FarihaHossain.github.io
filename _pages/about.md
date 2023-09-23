@@ -10,19 +10,32 @@ redirect_from:
 
 # About Me
 
-* I'm a PhD 3rd year student in Computer Science & Engineering and have worked as a GRA at Human-Machine Perception Lab and GTA at [University of Nevada, Reno](https://www.unr.edu/). [[Resume](https://farihahossain.github.io/files/Resume_Fariha_Hossain.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=pey8DYgAAAAJ&hl=en)]
+*  I am a 3rd year Ph.D. student at Human-Perception Lab, University of Nevada,Reno under the supervision of Dr. Alireza Tavakkoli. My research focuses on computer vision and its application in the medical field, with specific emphasis on Multimodal imagaing, generative models, and Knowledge Distillation.
+
+Prior to pursuing my doctoral studies, I did my Masters in Data Science in Deakin University, Melbourne, Australia. My research was focused on Generative Adversarial Network for Time series Data(ECG) under the supervision of Dr. Ma Xingjun, Dr. Lei Pan, Dr. Sutharshan Rajasegarar and Dr. Chandan Karmakar.
+
+
+ I'm a PhD 3rd year student in Computer Science & Engineering and have worked as a GRA at Human-Machine Perception Lab and GTA at [University of Nevada, Reno](https://www.unr.edu/). [[Resume](https://farihahossain.github.io/files/Resume_Fariha_Hossain.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=pey8DYgAAAAJ&hl=en)]
+
+
+# Research
+
+My research resides at the crossroads of computer vision and medical image analysis, where my primary goal is to advance deep learning techniques that can enhance the affordability and accessibility of healthcare on a global scale. Within this broad domain, my specific research interests encompass various facets, including Multi-modal medical imaging, knowledge distillation, generative networks within medical domain. Furthermore, I am open to exploring broader challenges in computer vision. I take pride in my substantial record of first-author publications in prestigious conferences such as MICCAI. I am deeply committed to mentoring High School, Graduate, Undergraduate student research groups specializing in machine learning successively at The Army Educational Outreach Program (AEOP) and University of Nevada,Reno, playing a pivotal role in nurturing the next generation of scholars and innovators in this evolving domain.
+
 
 <!--
 * I have worked as a Data, Analytics and Imaging Intern at Roche/Genentech from May 2022 till August 2022. Previously, I worked as a Product Development Intern at Genentech Inc. from May 2021 till December 2021.
 -->
-* In December 2022,  I completed my Masters in Computer Science & Engineering from University of Nevada, Reno. My master thesis was on [Detecting and Mitigating Adversarial Attack](https://scholarworks.unr.edu/handle/11714/7712).
+
 <!--
 * In August 2017, I finished my Bachelor's in Computer Science & Engineering from BRAC University, Bangladesh. My bachelor thesis was on [Exploring deep features: deeper fully convolutional neural network for image segmentation](http://dspace.bracu.ac.bd/xmlui/handle/10361/8112).
 
 * My research interest lies in the intersection of Computer Vision, Deep Learning, and Medical Image Processing. Most of my research involves Supervised and Unsupervised algorithms for Image Classification, Semantic Segmentation, etc. Quite recently, I have been working on improving robustness, image synthesis, and image denoising using Semi-supervised and Self-supervised GAN on different modalities of Ophthalmological and Calcium imaging data.
 -->
 # Recent updates
+* May 24, 2023. Paper accepted to **MICCAI 2023**.
 * January 22, 2023. One paper accepted to **IEEE ISBI 2023**.
+* In December 2022,  I completed my Masters in Computer Science & Engineering from University of Nevada, Reno. My master thesis was on [Detecting and Mitigating Adversarial Attack](https://scholarworks.unr.edu/handle/11714/7712).
 
 
 
