@@ -9,12 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* PhD. in Computer Science & Engineering, University of Nevada Reno, 2024 (expected)
-* M.S. in Computer Science & Engineering, University of Nevada Reno, 2022
-* M.S. in Data Science, Deakin University, 2020
-* Bsc. in Computer Science & Engineering, BRAC University, 2017
 
 Education
 ======
