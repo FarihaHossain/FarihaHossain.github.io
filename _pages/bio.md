@@ -20,10 +20,9 @@ Education
 Work Experience
 ======
 
-* **University of Nevada, Reno**  
-  *Graduate Research Assistant - Prof. Alireza Tavakkoli*  
-  *January 2021 - Present*  
-  *Reno, NV*
+### Graduate Research Assistant - Prof. Alireza Tavakkoli
+*University of Nevada, Reno* (Reno, NV)  
+*January 2021 - Present*
 
   - **2D and 3D Multi-Modal Medical Image**:  
     Working on Vision Transformers and Knowledge-Distillation projects for multi-modal medical image learning. Developed a pioneering Swin-Transformer-based architecture for segmenting benign and malignant breast micro-masses from MRI and Ultrasound images, achieving a 3-4% improvement over existing state-of-the-art methods.  
@@ -45,29 +44,6 @@ Work Experience
     Collaborating with the Neuromechanics Lab to develop a Virtual Reality system to detect concussions.  
     **Tools**: Tensorflow-keras, NumPy, Pandas
 
-
-
-### Graduate Research Assistant - Prof. Alireza Tavakkoli
-*University of Nevada, Reno* (Reno, NV)  
-*January 2021 - Present*
-
-- **2D and 3D Medical Image Segmentation**
-  - Developed a novel Swin-Transformer-based architecture for benign and malignant breast micro-mass segmentation from MRI and Ultrasound images, achieving 3-4% improvement over the current state-of-the-art. Also, developed an attention-based Swin-Transformer with feature-similarity loss for 3D OCT fluid segmentation.
-
-
-- **Space-associated Neuroocular Syndrome (SANS)**
-  - Developed a Super-resolution Transformer-based model for identifying SANS degenerative disease in astronauts. Funded by NASA Grant No. 80NSSC20K1831.
-  - **Tools:** PyTorch, Pandas, NumPy, Monai, OpenCV.
-  - **Codes:** [Swin-FSR](https://github.com/FarihaHossain/SwinFSR)
-
-- **Adversarial Attack Detection and Mitigation**
-  - Developed two novel generative adversarial networks for adversarial attack detection in ECG. Also, developed a Game theoretical strategy, implemented with a convolutional neural network to mitigate adversarial attack.
-  - **Tools:** Tensorflow-keras, NumPy, Keras, OpenCV.
-  - **Codes:** [ECG-Adv-GAN](https://github.com/FarihaHossain/ECG-Adv-GAN), [ECG-ATK-GAN](https://github.com/FarihaHossain/ECG-ATK-GAN)
-
-- **Concussion Detection using Virtual Reality**
-  - Collaborating with Neuromechanics Lab to develop a system using Virtual Reality that can detect concussions.
-  - **Tools:** Tensorflow-keras, Numpy, Pandas.
 
 
 ### Artificial Intelligence/Machine Learning Engineer Intern

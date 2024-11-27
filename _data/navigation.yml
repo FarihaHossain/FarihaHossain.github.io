@@ -6,8 +6,8 @@ main:
   #- title: "Talks"
   #  url: /talks/    
 
-  #- title: "Teaching"
-  #  url: /teaching/    
+  - title: "Teaching"
+    url: /teaching/    
     
   #title: "Work Experience"
   # url: /portfolio/
@@ -19,7 +19,7 @@ main:
     url: /bio/
     
   - title: "Resume"
-    url: /files/Resume_Fariha_Hossain.pdf
+    url: /files/Resume_Fariha_Hossain_Academic.pdf
 
   #- title: "Guide"
   #  url: /markdown/
