@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-* PhD. in Computer Science & Engineering, University of Nevada Reno, 2024 (expected)
+* PhD. in Computer Science & Engineering, University of Nevada Reno, May,2025 (expected)
 * M.S. in Computer Science & Engineering, University of Nevada Reno, 2022
 * M.S. in Data Science, Deakin University, 2020
 * Bsc. in Computer Science & Engineering, BRAC University, 2017
@@ -20,9 +20,40 @@ Education
 Work Experience
 ======
 
+* **University of Nevada, Reno**  
+  *Graduate Research Assistant - Prof. Alireza Tavakkoli*  
+  *January 2021 - Present*  
+  *Reno, NV*
+
+  - **2D and 3D Multi-Modal Medical Image**:  
+    Working on Vision Transformers and Knowledge-Distillation projects for multi-modal medical image learning. Developed a pioneering Swin-Transformer-based architecture for segmenting benign and malignant breast micro-masses from MRI and Ultrasound images, achieving a 3-4% improvement over existing state-of-the-art methods.  
+    *Funded by the National Science Foundation under Grant No. OIA-2148788 and OAC-2201599.*  
+    **Tools**: PyTorch, Pandas, NumPy, Monai, OpenCV  
+    **Codes**: [Swin-FSR](https://github.com/FarihaHossain/SwinFSR)
+
+  - **Space-associated Neuroocular Syndrome (SANS)**:  
+    Developed a Super-resolution Transformer-based model for identifying SANS degenerative disease in astronauts.  
+    *Funded by NASA Grant No. 80NSSC20K1831.*  
+    **Tools**: PyTorch, Pandas, NumPy, Monai, OpenCV  
+
+  - **Adversarial Attack Detection and Mitigation**:  
+    Developed two novel generative adversarial networks for adversarial attack detection in ECG. Also, developed a Game theoretical strategy, implemented with a convolutional neural network to mitigate adversarial attacks.  
+    **Tools**: Tensorflow-keras, NumPy, Keras, OpenCV  
+    **Codes**: [ECG-Adv-GAN](https://github.com/FarihaHossain/ECG-Adv-GAN), [ECG-ATK-GAN](https://github.com/FarihaHossain/ECG-ATK-GAN)
+
+  - **Concussion Detection using Virtual Reality**:  
+    Collaborating with the Neuromechanics Lab to develop a Virtual Reality system to detect concussions.  
+    **Tools**: Tensorflow-keras, NumPy, Pandas
+
+
+
 ### Graduate Research Assistant - Prof. Alireza Tavakkoli
 *University of Nevada, Reno* (Reno, NV)  
 *January 2021 - Present*
+
+- **2D and 3D Medical Image Segmentation**
+  - Developed a novel Swin-Transformer-based architecture for benign and malignant breast micro-mass segmentation from MRI and Ultrasound images, achieving 3-4% improvement over the current state-of-the-art. Also, developed an attention-based Swin-Transformer with feature-similarity loss for 3D OCT fluid segmentation.
+
 
 - **Space-associated Neuroocular Syndrome (SANS)**
   - Developed a Super-resolution Transformer-based model for identifying SANS degenerative disease in astronauts. Funded by NASA Grant No. 80NSSC20K1831.
@@ -38,8 +69,6 @@ Work Experience
   - Collaborating with Neuromechanics Lab to develop a system using Virtual Reality that can detect concussions.
   - **Tools:** Tensorflow-keras, Numpy, Pandas.
 
-- **2D and 3D Medical Image Segmentation**
-  - Developed a novel Swin-Transformer-based architecture for benign and malignant breast micro-mass segmentation from MRI and Ultrasound images, achieving 3-4% improvement over the current state-of-the-art. Also, developed an attention-based Swin-Transformer with feature-similarity loss for 3D OCT fluid segmentation.
 
 ### Artificial Intelligence/Machine Learning Engineer Intern
 *Ford Motor Company* (Melbourne, Australia)  
@@ -78,22 +107,7 @@ Honors and Awards
 - Received *Outstanding International Graduate Student Award* for Spring'22 and Fall'22 by University of Nevada, Reno.
 - Received *Institutional Methodology Grant* in January 2021 and 2022.
 
-Academic Services
-======
 
-- **Graduate Mentor**
-  - *US Army Educational Outreach Program*, Summer'21, Summer'23.
-
-- **Teaching Assistant**
-  - *CS791: Mass Detection in Mammograms, Spring'22*
-  - *Course: CS 302- Data Structure, Fall'22*
-  - *Course: CPE 201- Digital Design, Spring'21'23, Fall'21*
-
-- **Instructor: GRAD -778**
-  - Documentation and Communication (Overleaf)
-  - Source Version Control and Visualization
-  - Classification with Deep Architectures
-  - Segmentation with Deep Architectures
 
 <!---
 
