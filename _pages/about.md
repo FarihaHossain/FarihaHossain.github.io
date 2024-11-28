@@ -8,18 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
-
-I am a 3rd year Ph.D. student at Human-Perception Lab, University of Nevada,Reno under the supervision of Dr. Alireza Tavakkoli. My research focuses on computer vision and its application in the medical field, with specific emphasis on Multimodal imagaing, generative models, and Knowledge Distillation.
-
-Prior to pursuing my doctoral studies, I did my Masters in Data Science in Deakin University, Melbourne, Australia. My research was focused on Generative Adversarial Network for Time series Data(ECG) under the supervision of Dr. Ma Xingjun, Dr. Lei Pan, Dr. Sutharshan Rajasegarar and Dr. Chandan Karmakar.
 
 
+I am a Doctoral Candidate in Computer Science at the University of Nevada, Reno, working under the supervision of Dr. Alireza Tavakkoli. My research is rooted in advancing AI-driven healthcare technologies, with expertise in computer vision, multimodal imaging, generative models, and knowledge distillation. Currently, I am expanding my work to incorporate language-vision models (LVMs), bridging the gap between visual and textual data to enhance diagnostic workflows in medical applications.
 
+Prior to my Ph.D., I earned an M.S. in Data Science from Deakin University, where I conducted research on Generative Adversarial Networks for ECG time-series data. I have a strong record of first-author publications in prestigious venues like MICCAI and am deeply committed to mentoring students at all academic levels, inspiring innovation in machine learning and healthcare technologies.
+
+---
 
 # Research
 
-My research resides at the crossroads of computer vision and medical image analysis, where my primary goal is to advance deep learning techniques that can enhance the affordability and accessibility of healthcare on a global scale. Within this broad domain, my specific research interests encompass various facets, including Multi-modal medical imaging, knowledge distillation, generative networks within medical domain. Furthermore, I am open to exploring broader challenges in computer vision. I take pride in my substantial record of first-author publications in prestigious conferences such as MICCAI. I am deeply committed to mentoring High School, Graduate, Undergraduate student research groups specializing in machine learning successively at The Army Educational Outreach Program (AEOP) and University of Nevada,Reno, playing a pivotal role in nurturing the next generation of scholars and innovators in this evolving domain.
+My research focuses on the intersection of computer vision and medical imaging, aiming to develop cutting-edge AI solutions that improve the affordability, accessibility, and accuracy of global healthcare. Key areas of interest include:
+
+- **Multimodal Medical Imaging**: Integrating diverse imaging modalities like MRI, CT, and Ultrasound to achieve holistic diagnostic insights.
+- **Knowledge Distillation**: Designing lightweight, efficient models for resource-constrained environments without compromising performance.
+- **Generative Models**: Leveraging advanced architectures for synthetic data generation and augmentation in the medical domain.
+- **Language-Vision Models (LVMs)**: Exploring multimodal AI frameworks to align visual and textual data for enhanced interpretability and decision-making.
+
+My work is driven by the vision of democratizing advanced healthcare technologies and includes mentorship roles in research programs like the Army Educational Outreach Program (AEOP), where I guide aspiring researchers in machine learning and healthcare innovations.
+
 
 
 <!--
