@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/SANS-CNN
 venue: "npj Microgravity, Volume-10, Issue-1, Pages-40"
 date: 2024/3/28
-citation: 'Sharif Amit Kamran,<b>Khondker Fariha Hossain<\b>, Joshua Ong, Nasif Zaman, Ethan Waisberg, Phani Paladugu, Andrew G Lee, Alireza Tavakkoli'
+citation: 'Sharif Amit Kamran,<b>Khondker Fariha Hossain</b>, Joshua Ong, Nasif Zaman, Ethan Waisberg, Phani Paladugu, Andrew G Lee, Alireza Tavakkoli'
 ---
 [[ARXIV]](https://www.nature.com/articles/s41526-024-00364-w.pdf)
 

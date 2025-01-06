@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/SwinVFTR
 venue: "22th IEEE International Symposium on Biomedical Imaging"
 date: 2025-01-04
-citation: '<b>Khondker Fariha Hossain<\b>, Sharif Amit Kamran, Alireza Tavakkoli, George Bebis, Sal Baker'
+citation: '<b>Khondker Fariha Hossain</b>, Sharif Amit Kamran, Alireza Tavakkoli, George Bebis, Sal Baker'
 ---
 [[ARXIV]](https://arxiv.org/pdf/2303.09233)
 

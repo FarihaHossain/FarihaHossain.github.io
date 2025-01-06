@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/Heliyon2024
 venue: "Heliyon,Volume-10,Issue-21"
 date: 2024/11/15
-citation:  'Sharif Amit Kamran, Hussein Moghnieh, <b>Khondker Fariha Hossain<\b>, Allison Bartlett, Alireza Tavakkoli, Bernard T Drumm, Kenton M Sanders, Salah A Baker'
+citation:  'Sharif Amit Kamran, Hussein Moghnieh, <b>Khondker Fariha Hossain</b>, Allison Bartlett, Alireza Tavakkoli, Bernard T Drumm, Kenton M Sanders, Salah A Baker'
 ---
 [[Springer]](https://www.cell.com/heliyon/fulltext/S2405-8440(24)15605-8)
 
