@@ -86,7 +86,7 @@ Sharif A. Kamran, **Khondker Fariha Hossain**, Alireza Tavakkoli, Stewart L. Zuc
 Sharif A. Kamran, **Khondker Fariha Hossain**, Alireza Tavakkoli, Stewart Zuckerbrod, Salah A. Baker, Kenton M. Sanders. *15th International Symposium on Visual Computing*. **ISVC2020**.
 
 ## Journals
-
+---
 **[Automated Denoising Software for Calcium Imaging Signals Using Deep Learning](https://farihahossain.github.io/publications/Heliyon2024)**
 Sharif Amit Kamran, Hussein Moghnieh, **Khondker Fariha Hossain**, Allison Bartlett, Alireza Tavakkoli, Bernard T. Drumm, Kenton M. Sanders, Salah A. Baker. (Accepted at Heliyon, Elsevier).
 
@@ -106,13 +106,15 @@ Sharif Amit Kamran, **Khondker Fariha Hossain**, Hussein Moghnieh, Nyanbol Kuol,
 Sharif A. Kamran, **Khondker Fariha Hossain**, Hussein Moghnieh, Sarah Riar, Allison Bartlett, Alireza Tavakkoli, Kenton M. Sanders, Salah A. Baker. *iScience, Cell Press*. **2022**.
 
 ## Abstracts
+---
 **[Detecting Spaceflight Associated Neuro-Ocular Syndrome (SANS) Using Light-Weight Convolutional Neural Networks](https://farihahossain.github.io/publications/JOV2023)**  
 Amit Kamran, **Khondker Fariha Hossain**, Joshua Ong, Alireza Tavakkoli, Andrew G. Lee. *Journal of Vision, ARVO*. **2023**.
 
 **[A Generative Adversarial Deep Neural Network to Translate Between Ocular Imaging Modalities While Maintaining Anatomical Fidelity](https://farihahossain.github.io/publications/JOV2022)**  
 Sharif Amit Kamran, **Khondker Fariha Hossain**, Joshua Ong, Alireza Tavakkoli, Andrew G. Lee. *Journal of Vision, ARVO*. **2022**.
 
-### Under Review
+## Under Review
+---
 **[Teach-Former: Enhancing Slim Models with Multimodal, Multi-Teacher Insights for Medical Image Segmentation](https://farihahossain.github.io/publications/UnderReview-TeachFormer)**  
 **Khondker Fariha Hossain**, Sharif Amit Kamran, Joshua Ong, Alireza Tavakkoli. *(Submitted to Scientific Reports)*.
 
