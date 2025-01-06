@@ -39,6 +39,7 @@ My work is driven by the vision of democratizing advanced healthcare technologie
 * My research interest lies in the intersection of Computer Vision, Deep Learning, and Medical Image Processing. Most of my research involves Supervised and Unsupervised algorithms for Image Classification, Semantic Segmentation, etc. Quite recently, I have been working on improving robustness, image synthesis, and image denoising using Semi-supervised and Self-supervised GAN on different modalities of Ophthalmological and Calcium imaging data.
 -->
 # Recent updates
+* January 04, 2025. Paper accepted to **IEEE ISBI 2025**.
 * Septembar 12, 2023. Awarded with *Doctoral Research in Innovation, Vision and Excellence [Nevada Drive Scholar](https://www.unr.edu/grad/admissions/funding/assistantships/drive-ra-program)* for 2023-2024.
 * May 24, 2023. Paper accepted to **MICCAI 2023**.
 * January 22, 2023. One paper accepted to **IEEE ISBI 2023**.

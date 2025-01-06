@@ -46,14 +46,12 @@ Sharif Amit Kamran, **Khondker Fariha Hossain**, Alireza Tavakkoli, Stewart Lee 
 
 -->
 
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
 
-### Conference
+# Conference
+
+**[SwinVFTR: A Novel Volumetric Feature-Learning Transformer for 3D OCT Fluid Segmentation](https://farihahossain.github.io/publications/SwinVFTR)**  
+**Khondker Fariha Hossain**,Sharif Amit Kamran, Alireza Tavakkoli, Salah A. Baker, Stewart Lee Zuckerbrod. **22th IEEE International Symposium on Biomedical Imaging*. **ISBI2025**..
+
 **[Revolutionizing Space Health (Swin-FSR): Advancing Super-Resolution of Fundus Images for SANS Visual Assessment Technology](https://farihahossain.github.io/publications/MICCAI2023)**  
 **Khondker Fariha Hossain**, Sharif Amit Kamran, Joshua Ong, Andrew G. Lee, Alireza Tavakkoli. *The 26th International Conference on Medical Image Computing and Computer Assisted Intervention*. **MICCAI2023**.
 
@@ -88,6 +86,10 @@ Sharif A. Kamran, **Khondker Fariha Hossain**, Alireza Tavakkoli, Stewart L. Zuc
 Sharif A. Kamran, **Khondker Fariha Hossain**, Alireza Tavakkoli, Stewart Zuckerbrod, Salah A. Baker, Kenton M. Sanders. *15th International Symposium on Visual Computing*. **ISVC2020**.
 
 ### Journals
+
+**[Automated Denoising Software for Calcium Imaging Signals Using Deep Learning](https://farihahossain.github.io/publications/Heliyon2024)**
+Sharif Amit Kamran, Hussein Moghnieh, **Khondker Fariha Hossain**, Allison Bartlett, Alireza Tavakkoli, Bernard T. Drumm, Kenton M. Sanders, Salah A. Baker. (Accepted at Heliyon, Elsevier).
+
 **[A Novel Deep Learning Conditional Generative Adversarial Network for Producing Angiography Images from Retinal Fundus Photographs](https://farihahossain.github.io/publications/SR2021)**  
 Sharif A. Kamran, **Khondker Fariha Hossain**, Alireza Tavakkoli, Stewart L. Zuckerbrod. *Scientific Reports, Nature*. **2021**.
 
@@ -114,8 +116,4 @@ Sharif Amit Kamran, **Khondker Fariha Hossain**, Joshua Ong, Alireza Tavakkoli, 
 **[Teach-Former: Enhancing Slim Models with Multimodal, Multi-Teacher Insights for Medical Image Segmentation](https://farihahossain.github.io/publications/UnderReview-TeachFormer)**  
 **Khondker Fariha Hossain**, Sharif Amit Kamran, Joshua Ong, Alireza Tavakkoli. *(Submitted to Scientific Reports)*.
 
-**[SwinVFTR: A Novel Volumetric Feature-Learning Transformer for 3D OCT Fluid Segmentation](https://farihahossain.github.io/publications/UnderReview-SwinVFTR)**  
-Sharif Amit Kamran, **Khondker Fariha Hossain**, Alireza Tavakkoli, Salah A. Baker, Stewart Lee Zuckerbrod. *(Submitted to ISBI 2024)*.
 
-**[Automated Denoising Software for Calcium Imaging Signals Using Deep Learning](https://farihahossain.github.io/publications/UnderReview-Denoising Software)**
-Sharif Amit Kamran, Hussein Moghnieh, Khondker Fariha Hossain, Allison Bartlett, Alireza Tavakkoli, Bernard T. Drumm, Kenton M. Sanders, Salah A. Baker. (Under review at Heliyon, Elsevier).
